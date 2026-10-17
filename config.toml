@@ -12,7 +12,7 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "both"
-direct-dlurl = "https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2026/10/05/6ac9987a5df59/com.google.android.youtube_21.41.525-1561303420_minAPI29%28arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64%29%28nodpi%29_apkmirror.com.apk?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20261017%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261017T164920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=f067320fadde6b7d19befea48949c00045a67bc12be51ec675e89a0adf4b22c9"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 enable-update-checks = true
 
 [Music-Morphe]
@@ -43,7 +43,7 @@ build-mode = "both"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
 cli-source = "MorpheApp/morphe-cli"
-direct-dlurl = "https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2026/10/40/6ac85bf459526/com.google.android.apps.photos_7.96.0.996044120-52514915_minAPI24%28arm64-v8a%29%28nodpi%29_apkmirror.com.apk?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20261017%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261017T164749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=25e36450215125ddee6b5d5f0aecb10ecbc7316d7a43bb73d73e8490705a1057"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 enable-update-checks = true
 
 [Twitter]
